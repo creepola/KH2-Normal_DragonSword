@@ -1,0 +1,24 @@
+title: DragonKeyblade (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: remastered\itempic\item-063.imd\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\itempic\item-063.imd\-0.dds
+- name: obj\W_EX010_M0.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\W_EX010_M0.mdlx
+- name: remastered\obj\W_EX010_M0.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\W_EX010_M0.mdlx\-0.dds
